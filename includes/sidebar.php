@@ -13,7 +13,7 @@ $nav = [
     ['key' => 'sales', 'label' => 'Sales & Transactions', 'icon' => 'receipt-text', 'url' => APP_URL . '/modules/sales/index.php'],
     ['key' => 'descriptive', 'label' => 'Descriptive Analytics', 'icon' => 'bar-chart-3', 'url' => APP_URL . '/modules/analytics/descriptive.php'],
     ['key' => 'predictive', 'label' => 'Predictive Analytics', 'icon' => 'trending-up', 'url' => APP_URL . '/modules/forecasting/index.php'],
-    ['key' => 'prescriptive', 'label' => 'Recommendations', 'icon' => 'lightbulb', 'url' => APP_URL . '/modules/recommendations/index.php'],
+    ['key' => 'prescriptive', 'label' => 'Prescriptive Analytics', 'icon' => 'lightbulb', 'url' => APP_URL . '/modules/recommendations/index.php'],
     ['key' => 'data', 'label' => 'Excel Import / Export', 'icon' => 'file-spreadsheet', 'url' => APP_URL . '/modules/data-management/index.php'],
     ['key' => 'reports', 'label' => 'Reports', 'icon' => 'file-text', 'url' => APP_URL . '/modules/reports/index.php'],
 ];

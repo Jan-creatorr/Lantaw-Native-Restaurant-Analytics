@@ -16,3 +16,5 @@
 [20-Oct-2026 16:21:49 Asia/Manila] [exception] Call to undefined function aos() @ C:\xampp\htdocs\Lantaw Native Restaurant\lantaw-analytics\dashboard.php:206
 [20-Oct-2026 16:21:50 Asia/Manila] [exception] Call to undefined function aos() @ C:\xampp\htdocs\Lantaw Native Restaurant\lantaw-analytics\dashboard.php:206
 [20-Oct-2026 16:21:51 Asia/Manila] [exception] Call to undefined function aos() @ C:\xampp\htdocs\Lantaw Native Restaurant\lantaw-analytics\dashboard.php:206
+[03-Nov-2026 20:30:26 Asia/Manila] [db] connection failed: SQLSTATE[HY000] [1049] Unknown database 'lantaw_analytics'
+[03-Nov-2026 20:41:27 Asia/Manila] [db] connection failed: SQLSTATE[HY000] [1049] Unknown database 'lantaw_analytics'
