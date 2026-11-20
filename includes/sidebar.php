@@ -11,9 +11,9 @@ $nav = [
     ['key' => 'dashboard', 'label' => 'Dashboard', 'icon' => 'layout-dashboard', 'url' => APP_URL . '/dashboard.php'],
     ['key' => 'menu', 'label' => 'Menu Management', 'icon' => 'utensils-crossed', 'url' => APP_URL . '/modules/menu/index.php'],
     ['key' => 'sales', 'label' => 'Sales & Transactions', 'icon' => 'receipt-text', 'url' => APP_URL . '/modules/sales/index.php'],
-    ['key' => 'descriptive', 'label' => 'Descriptive Analytics', 'icon' => 'bar-chart-3', 'url' => APP_URL . '/modules/analytics/descriptive.php'],
-    ['key' => 'predictive', 'label' => 'Predictive Analytics', 'icon' => 'trending-up', 'url' => APP_URL . '/modules/forecasting/index.php'],
-    ['key' => 'prescriptive', 'label' => 'Prescriptive Analytics', 'icon' => 'lightbulb', 'url' => APP_URL . '/modules/recommendations/index.php'],
+    ['key' => 'descriptive', 'label' => 'Data Overview', 'icon' => 'bar-chart-3', 'url' => APP_URL . '/modules/analytics/descriptive.php'],
+    ['key' => 'predictive', 'label' => 'Forecasting', 'icon' => 'trending-up', 'url' => APP_URL . '/modules/forecasting/index.php'],
+    ['key' => 'prescriptive', 'label' => 'Recommendation', 'icon' => 'lightbulb', 'url' => APP_URL . '/modules/recommendations/index.php'],
     ['key' => 'data', 'label' => 'Excel Import / Export', 'icon' => 'file-spreadsheet', 'url' => APP_URL . '/modules/data-management/index.php'],
     ['key' => 'reports', 'label' => 'Reports', 'icon' => 'file-text', 'url' => APP_URL . '/modules/reports/index.php'],
 ];

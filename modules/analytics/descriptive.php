@@ -225,7 +225,7 @@ if ($revStats['sum'] <= 0) {
     }
 }
 
-$page_title = 'Descriptive Analytics';
+$page_title = 'Data Overview';
 $page_active = 'descriptive';
 include dirname(__DIR__, 2) . '/includes/header.php';
 ?>

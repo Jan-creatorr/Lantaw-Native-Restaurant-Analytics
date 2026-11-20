@@ -302,7 +302,7 @@ if ($maMetrics['mae'] !== null && $trendMetrics['mae'] !== null) {
     $oestMethod = 'Linear trend';
 }
 
-$page_title = 'Predictive Analytics';
+$page_title = 'Forecasting';
 $page_active = 'predictive';
 include dirname(__DIR__, 2) . '/includes/header.php';
 ?>

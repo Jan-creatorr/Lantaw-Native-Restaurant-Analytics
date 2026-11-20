@@ -329,7 +329,7 @@ $recs = rows(
      LIMIT ' . $perPage . ' OFFSET ' . $offset
 );
 
-$page_title = 'Recommendations';
+$page_title = 'Recommendation';
 $page_active = 'prescriptive';
 include dirname(__DIR__, 2) . '/includes/header.php';
 ?>
